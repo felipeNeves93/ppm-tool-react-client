@@ -1,4 +1,4 @@
-This repository is about the the frontend part of Udemy course Full Stack project Spring Boot|React|Redux from Agile Intelligence.
+This repository is about the frontend part of Udemy course Full Stack project Spring Boot|React|Redux from Agile Intelligence.
 
 The proposed project is about a Personal Project Management Tool, a sort of Kanban board, with the purpose of adding tasks, projects, and having the control over the workflow.
 
