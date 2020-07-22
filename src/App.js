@@ -1,11 +1,12 @@
 import React from 'react';
 import './App.css';
 import Dashboard from './components/Dashboard';
+import Header from './components/Layout/Header';
 
 function App() {
   return (
     <div className="App">
-      {/*This is related to Dashboard.js component. Every component should be rendered here to appear in the index.html*/}
+      <Header />
       <Dashboard />
     </div>
   );
